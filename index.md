@@ -28,6 +28,20 @@ I work in brain sciences at the **Weizmann Institute of Science**, in the **Ilan
 
 My proposed doctoral research investigates how chronic stress alters prefrontal network activity and the function of somatostatin-expressing (SST) interneurons in mice. It combines high-density Neuropixels recordings in the prelimbic and infralimbic cortices, SST-targeted optogenetics, computational circuit models, and repeated measurements of reward-directed behavior to examine how stress-related neural changes relate to anhedonia and whether targeted stimulation can shift network activity toward non-stressed patterns.
 
+## Scientific programming projects
+
+### Optogenetic Fiber Irradiance Calculator
+
+A Python program that calculates the average optical
+irradiance at the tip of an optical fiber using its
+diameter and measured light power.
+
+The calculator was developed as part of the Weizmann
+Institute Python course and demonstrates user input,
+numerical calculations, and basic input validation.
+
+- [View Python code and documentation](https://github.com/AllTheWeizer/wis-python-assignments/tree/main/day02)
+
 ## Links
 
 - [GitHub profile](https://github.com/AllTheWeizer)
